@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "140755467865",
+    "firebase_url": "https://baby-sleep-3085d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "baby-sleep-3085d",
+    "storage_bucket": "baby-sleep-3085d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140755467865:android:41eebee1b8ab7683653b48",
+        "android_client_info": {
+          "package_name": "com.example.babysleep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqca2Rn1MSN-3rKCpQAYR0ZT7bXl3ilg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
